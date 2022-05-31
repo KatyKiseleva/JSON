@@ -1,1 +1,15 @@
-
+{
+       "productsList": [
+           1,
+           4
+       ],
+       "status": 0,
+       "deliveryPriceOur": 30,
+       "deliveryTime": "25~30",
+       "courierService": "Привезём быстро",
+       "deliveryPrice": 99,
+       "userId": 1,
+       "id": 5,
+       "productsCost": 75,
+       "finalCCost": 174
+   } 
